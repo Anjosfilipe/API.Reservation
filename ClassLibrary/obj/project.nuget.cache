@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hsn+ijPs36dmB+RYbDr7cIi1ic5sQcXs8FmVw/6d5taWLmwFtUl5tkULVnbFP8GICZx8e8LsXfLd9TZbrkxF3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Filipe Anjos\\Source\\Repos\\Filipe2\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filipe Anjos\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Filipe Anjos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Filipe Anjos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
